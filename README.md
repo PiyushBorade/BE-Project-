@@ -34,6 +34,8 @@ The application predicts whether a tumor is present.
 The result is displayed along with the confidence score.
 Users can also download the generated report.
 Project Structure
+
+
 RareDetect/
 │── app.py
 │── vgg16_model.h5
